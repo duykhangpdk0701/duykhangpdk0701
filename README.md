@@ -56,15 +56,15 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://pdk-dev.netlify.app/" target="blank">
-    <img width="90" height="90" src="./images/brand-icon.png" alt="trungquandev-blog" />
+    <img width="90" height="90" src="./images/brand-icon.png" alt="duykhang-webiste" />
   </a>
   <a href="https://www.facebook.com/kenji.phung.7" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="duykhang-facebook" />
   </a>
   <a href="https://www.instagram.com/phung_duy_khang" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="duykhang-instagram" />
   </a>
   <a href="mailto:duykhangpdk0701@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="duykhang-email" />
   </a>
 </div>
